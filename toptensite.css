@@ -1,0 +1,40 @@
+.body_c {
+  background-color: #c7e0c3;
+}
+
+.jumbotron {
+  background-image: url(http://i.dailymail.co.uk/i/pix/2014/03/11/article-2578213-1C2F7AC000000578-701_964x642.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Architects Daughter;
+  font-size: 50px;
+  font-weight: bold;
+}
+.brand{
+  max-height: 40px;
+  margin-top: -10px;
+}
+.carousel-content {
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,.8);
+  font-size: 40px;
+  font-family: Architects Daughter;
+}
+.surfers {
+  max-height: 300px;
+  margin: auto;
+}
+
+h2 {
+  background-color: #a7e0c3;
+  font-family: bree serif;
+  text-align: center
+}
+
+.bottom-nav {
+  margin-bottom: 0px;
+}
